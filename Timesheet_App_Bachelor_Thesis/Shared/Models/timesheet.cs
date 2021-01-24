@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Timesheet_App_Bachelor_Thesis.Shared.Models
 {
-    class timesheet
+    public class timesheet
     {
         [Key]
         public int TimeSheetID { get; set; }
